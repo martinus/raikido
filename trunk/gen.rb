@@ -119,9 +119,50 @@ add(d, "5. Kyu", "Tachi waza", "Shomen uchi Kiawaze", "Kote gaeshi", "", "fm7_t4
 
 
 # check order!
-add(d, "4. Kyu", "Tachi waza", "Shomen uchi Kiawaze", "Irimi nage", "", "NE4jkH204pM", 0)
+add(d, "4. Kyu", "Suwari waza", "Shomen uchi", "Kote gaeshi", "osae", "6uVEZo-09jw", 0)
+add(d, "4. Kyu", "Suwari waza", "Shomen uchi", "Nikyo", "omote", "tRoYyF2lCgY", 0)
+add(d, "4. Kyu", "Suwari waza", "Shomen uchi", "Nikyo", "ura", "tRoYyF2lCgY", 30)
+add(d, "4. Kyu", "Hanmi handachi waza", "Katate tori gyaku hanmi", "Ikkyo", "omote", "lnMNyIQ3Wl4", 0)
+add(d, "4. Kyu", "Hanmi handachi waza", "Katate tori gyaku hanmi", "Ikkyo", "ura", "HHNvGzh10S4", 0, "Tachi waza anstatt Hanmi handachi waza")
+add(d, "4. Kyu", "Hanmi handachi waza", "Katate tori gyaku hanmi", "Nikyo", "omote", "rk0Dz6EA1V4", 0, "Tachi waza statt Hanmi handachi")
+add(d, "4. Kyu", "Hanmi handachi waza", "Katate tori gyaku hanmi", "Nikyo", "ura", "rk0Dz6EA1V4", 50, "Tachi waza statt Hanmi handachi")
+add(d, "4. Kyu", "Hanmi handachi waza", "Katate tori gyaku hanmi", "Kote gaeshi", "", "gYhQCOH8m8Y", 0)
+
+add(d, "4. Kyu", "Tachi waza", "Katate tori ai hanmi", "Sankyo", "omote", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate tori ai hanmi", "Sankyo", "ura", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate tori ai hanmi", "Yonkyo", "omote", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate tori ai hanmi", "Yonkyo", "ura", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate tori ai hanmi", "Kaiten nage", "", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate tori ai hanmi", "Jijuwaza", "", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate tori ai hanmi", "Kokyu ho", "ko tai (wie Iriminage)", "", 0)
 add(d, "4. Kyu", "Tachi waza", "Ryote dori", "Ikkyo", "omote", "a--a1fxyHV8", 5)
 add(d, "4. Kyu", "Tachi waza", "Ryote dori", "Ikkyo", "ura", "a--a1fxyHV8", 20)
+add(d, "4. Kyu", "Tachi waza", "Ryote dori", "Irimi nage", "", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Ryote dori", "Kote gaeshi", "", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate ryote dori", "Ikkyo", "omote", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate ryote dori", "Ikkyo", "ura", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate ryote dori", "Nikyo", "omote", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate ryote dori", "Nikyo", "ura", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Katate ryote dori", "Kokyunage/Otoshi", "", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi kiawase", "Ikkyo", "omote", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi kiawase", "Ikkyo", "ura", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi kiawase", "Nikyo", "omote", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi kiawase", "Nikyo", "ura", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi kiawase", "Sankyo", "omote", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi kiawase", "Sankyo", "ura", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi kiawase", "Yonkyo", "omote", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi kiawase", "Yonkyo", "ura", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi", "Irimi nage", "", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi", "Kote gaeshi", "", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Chudan tsuki", "Iriminage", "", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Chudan tsuki", "Sumiotoshi", "", "", 0)
+add(d, "4. Kyu", "Tachi waza", "Chudan tsuki", "Kote gaeshi", "", "", 0)
+
+
+
+
+#############################
+add(d, "4. Kyu", "Tachi waza", "Shomen uchi Kiawaze", "Irimi nage", "", "NE4jkH204pM", 0)
 
 add(d, "3. Kyu", "Tachi waza", "Shomen uchi Kiawaze", "Ikkyo", "omote", "sw0TPWL-bhY", 0)
 add(d, "3. Kyu", "Tachi waza", "Shomen uchi Kiawaze", "Ikkyo", "ura", "sw0TPWL-bhY", 20)
